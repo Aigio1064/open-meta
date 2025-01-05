@@ -1,0 +1,9 @@
+[
+    {
+        "id": 999999,
+        "title": "Notification Title",
+        "content": "Test Notification",
+        "type":"open",
+        "duration": 5
+    }
+]
